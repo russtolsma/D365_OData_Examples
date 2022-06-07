@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OData_GeneralJournals", "OData_GeneralJournals\OData_GeneralJournals.csproj", "{DE159879-AF36-4CDB-8524-A98C780C79A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF2C4C16-08E9-4172-ABFE-F57C74C9EE11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE159879-AF36-4CDB-8524-A98C780C79A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE159879-AF36-4CDB-8524-A98C780C79A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE159879-AF36-4CDB-8524-A98C780C79A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE159879-AF36-4CDB-8524-A98C780C79A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {053505EF-DA5B-4923-83F4-3817AFAD4AD1}
+	EndGlobalSection
+EndGlobal
