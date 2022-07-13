@@ -28,11 +28,11 @@ namespace OData_GeneralJournals
             UriString = "",
             UserName = "",
             Password = "",
-            ActiveDirectoryResource = "https://rt-dev68c6fa3e95c1f964devaos.axcloud.dynamics.com",
-            ActiveDirectoryTenant = "96502bb1-655b-4e84-9ba8-5be61d4cbe5f",
-            ActiveDirectoryClientAppId = "78dc099c-ee78-44cc-9b5d-be2f064bc387",
-            ActiveDirectoryClientAppSecret = "Rtm8Q~94kHqtG4stmJfCPvYKD61_caUHCpU0vdrE",
-            Scopes = new string[] { "https://rt-dev68c6fa3e95c1f964devaos.axcloud.dynamics.com/.default" },
+            ActiveDirectoryResource = "https://test.axcloud.dynamics.com",
+            ActiveDirectoryTenant = "",
+            ActiveDirectoryClientAppId = "",
+            ActiveDirectoryClientAppSecret = "",
+            Scopes = new string[] { "https://test.axcloud.dynamics.com/.default" },
         };
     }
 }
